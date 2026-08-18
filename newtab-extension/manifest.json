@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Newtab",
+  "version": "1.0",
+  "description": "https://github.com/Meph322/Newtab",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
